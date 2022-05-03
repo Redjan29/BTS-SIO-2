@@ -1,4 +1,4 @@
-# ![Tux,the-linux-mascot](./asset/favicon-3232.png) projet portfolio développeur
+# ![Tux,the-linux-mascot](./asset/favicon-3232.png) Article developpeur
 ## comment appliquer les bonnes pratiques ?
 
 ### pour le code html
