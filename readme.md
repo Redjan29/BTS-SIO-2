@@ -47,4 +47,4 @@ p, figure, h1, h2, h3, h4, ul, ol{
 *PHP
 *Versioning (Github)
 
-this is the *[page-web]https://github.com/Redjan29/BTS-SIO-2
+this is the *[https://redjan29.github.io/BTS-SIO-2/
