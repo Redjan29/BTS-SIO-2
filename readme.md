@@ -44,7 +44,7 @@ p, figure, h1, h2, h3, h4, ul, ol{
 * HTML <sup>5</sup>
 * CSS <sup>3</sup>
 *js
-*PHP
+*PHP 
 *Versioning (Github)
 
 this is the *[https://redjan29.github.io/BTS-SIO-2/
